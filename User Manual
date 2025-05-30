@@ -1,0 +1,502 @@
+EventHub - Smart Event Management System (SEMS) User Manual
+Introduction
+Welcome to the EventHub - Smart Event Management System (SEMS) user manual. This guide provides step-by-step instructions for using EventHub, a web-based platform for event management. It supports three main user roles: Guest Users, Venue Admins, and System Admins. This manual is based on the system’s navigation structure as of 11:50 AM AEST, Friday, May 30, 2025.
+User Roles
+
+Guest User: Can browse events, book tickets, and manage bookings without logging in (or after registering/logging in).
+Venue Admin: Manages venues, events, ticket scanning, and attendee tracking.
+System Admin: Oversees the entire system, including user management, event approvals, and pricing.
+
+Navigation and Features
+Guest User Features
+Guest users can access most features without logging in, but some actions may require registration or login.
+1. Home Page
+
+Purpose: Browse upcoming events and explore EventHub.
+Steps:
+Open EventHub in your browser.
+View featured events, search for events, or navigate to other pages like Contact or Login.
+
+
+
+2. About
+
+Purpose: Learn more about EventHub.
+Steps:
+Navigate to the About page from the Home page.
+Read information about the platform's mission and services.
+
+
+
+3. Contact
+
+Purpose: Submit inquiries or get support.
+Steps:
+Go to the Contact page.
+Fill out the form with your name, email, and message.
+Submit the form to contact the EventHub team.
+
+
+
+4. Login
+
+Purpose: Log in to your account (required for registered users).
+Steps:
+Go to the Login page.
+Enter your username and password.
+Click "Login" to access your account.
+
+
+
+5. Organizer Login
+
+Purpose: Log in as a venue organizer (alternative login for admins).
+Steps:
+Navigate to the Organizer Login page.
+Enter your organizer credentials.
+Click "Login" to access the organizer dashboard.
+
+
+
+6. Admin Login
+
+Purpose: Log in as a system admin.
+Steps:
+Go to the Admin Login page.
+Enter your admin credentials.
+Click "Login" to access the admin dashboard.
+
+
+
+7. Register
+
+Purpose: Create a new user account.
+Steps:
+Navigate to the Register page.
+Fill in your details (e.g., name, email, password).
+Click "Register" to create your account.
+
+
+
+8. As Attendee
+
+Purpose: Register or log in as an attendee.
+Steps:
+Select "As Attendee" during registration or login.
+Follow the prompts to complete the process.
+
+
+
+9. As Organizer
+
+Purpose: Register or log in as an organizer (venue admin).
+Steps:
+Select "As Organizer" during registration or login.
+Follow the prompts to complete the process.
+
+
+
+10. Dashboard
+
+Purpose: Central hub for logged-in users.
+Steps:
+Log in to access your dashboard.
+Navigate to various sections based on your role.
+
+
+
+11. Event Listing
+
+Purpose: View a list of available events.
+Steps:
+From the Dashboard, go to Event Listing.
+Filter events by date, venue, or type.
+View event details or book tickets.
+
+
+
+12. Filter Events
+
+Purpose: Narrow down event listings.
+Steps:
+Use the Filter Events option.
+Apply filters (e.g., date, location).
+View the filtered event list.
+
+
+
+13. View Event Details
+
+Purpose: Get detailed information about an event.
+Steps:
+Select an event from the Event Listing.
+View details like date, time, venue, and ticket prices.
+Proceed to book if interested.
+
+
+
+14. Book Now
+
+Purpose: Book tickets for an event.
+Steps:
+From View Event Details, click "Book Now".
+Select the number of tickets.
+Proceed to the order summary.
+
+
+
+15. My Bookings
+
+Purpose: Manage your bookings.
+Steps:
+Navigate to My Bookings from the Dashboard.
+View a list of your bookings.
+Cancel bookings or view QR codes if needed.
+
+
+
+16. View Booking
+
+Purpose: Check details of a specific booking.
+Steps:
+From My Bookings, select a booking.
+View details like event name, date, and ticket status.
+
+
+
+17. Cancel Booking
+
+Purpose: Cancel a booking if needed.
+Steps:
+From My Bookings, select a booking.
+Click "Cancel Booking" and confirm.
+Receive a cancellation confirmation.
+
+
+
+18. Download QR Code
+
+Purpose: Download the QR code for a booking.
+Steps:
+From My Bookings, select a booking.
+Click "Download QR Code".
+Save the QR code to your device.
+
+
+
+19. AR Navigation
+
+Purpose: Use augmented reality for navigation to events.
+Steps:
+Navigate to AR Navigation.
+Select your event or venue.
+Follow the AR-guided directions.
+
+
+
+20. Select Venue
+
+Purpose: Choose a venue for navigation or booking.
+Steps:
+Go to Select Venue.
+Choose from the list of venues.
+Proceed with your action (e.g., navigation or booking).
+
+
+
+21. Start Navigation
+
+Purpose: Begin navigation to the selected venue.
+Steps:
+After selecting a venue, click "Start Navigation".
+Follow the navigation instructions.
+
+
+
+22. Feedback
+
+Purpose: Submit feedback about an event.
+Steps:
+Navigate to Feedback.
+Enter your feedback details.
+Submit the feedback.
+
+
+
+23. Submit Feedback
+
+Purpose: Send your feedback to the system.
+Steps:
+From Feedback, fill out the form.
+Click "Submit Feedback" to send.
+
+
+
+24. Admin Response
+
+Purpose: View responses to your feedback.
+Steps:
+Go to Admin Response.
+View replies from the admin team.
+
+
+
+25. Profile
+
+Purpose: Manage your user profile.
+Steps:
+Navigate to Profile.
+View or edit your details (e.g., name, email).
+
+
+
+26. Edit Profile
+
+Purpose: Update your profile information.
+Steps:
+From Profile, click "Edit Profile".
+Update your details and save.
+
+
+
+27. Logout
+
+Purpose: Log out of your account.
+Steps:
+Navigate to Logout.
+Click "Logout" to end your session.
+
+
+
+Venue Admin Features
+Venue admins access these features after logging in as an organizer.
+1. Dashboard
+
+Purpose: Central hub for venue admin tasks.
+Steps:
+Log in as an organizer.
+Access the Dashboard to manage events and venues.
+
+
+
+2. Create Events
+
+Purpose: Add new events.
+Steps:
+From the Dashboard, go to Create Events.
+Enter event details (e.g., title, date, venue).
+Submit for approval.
+
+
+
+3. Manage Events
+
+Purpose: Edit or delete existing events.
+Steps:
+Navigate to Manage Events.
+Select an event to edit or delete.
+Save or confirm the action.
+
+
+
+4. Edit
+
+Purpose: Modify event details.
+Steps:
+From Manage Events, select "Edit".
+Update the event details.
+Save the changes.
+
+
+
+5. Delete
+
+Purpose: Remove an event.
+Steps:
+From Manage Events, select "Delete".
+Confirm the deletion.
+
+
+
+6. Bookings
+
+Purpose: View bookings for managed events.
+Steps:
+Go to Bookings.
+View a list of bookings for your events.
+
+
+
+7. Venue Management
+
+Purpose: Manage venue details.
+Steps:
+Navigate to Venue Management.
+View or edit venue information.
+
+
+
+8. Attendee List
+
+Purpose: View attendees for your events.
+Steps:
+Go to Attendee List.
+View a list of attendees with their details.
+
+
+
+9. Smart Tools
+
+Purpose: Access advanced tools for event management.
+Steps:
+Navigate to Smart Tools.
+Use tools like QR Generator or Analytics.
+
+
+
+10. QR Generator
+
+Purpose: Generate QR codes for tickets.
+Steps:
+From Smart Tools, select QR Generator.
+Enter booking details to generate a QR code.
+
+
+
+11. QR PCI
+
+Purpose: Manage PCI-compliant QR codes (if applicable).
+Steps:
+Go to QR PCI.
+Manage or generate PCI-compliant QR codes.
+
+
+
+12. Analytics
+
+Purpose: View analytics for your events.
+Steps:
+Navigate to Analytics.
+View data on attendance, revenue, etc.
+
+
+
+13. Profile
+
+Purpose: Manage your venue admin profile.
+Steps:
+Go to Profile.
+View or edit your details.
+
+
+
+14. Logout
+
+Purpose: Log out of your account.
+Steps:
+Navigate to Logout.
+Click "Logout" to end your session.
+
+
+
+System Admin Features
+System admins access these features after logging in as an admin.
+1. Dashboard
+
+Purpose: Central hub for system admin tasks.
+Steps:
+Log in as a system admin.
+Access the Dashboard to manage the system.
+
+
+
+2. Manage Users
+
+Purpose: Manage all users in the system.
+Steps:
+Navigate to Manage Users.
+View, edit, or delete user accounts.
+
+
+
+3. Manage Events
+
+Purpose: Oversee all events in the system.
+Steps:
+Go to Manage Events.
+View, approve, or reject events.
+
+
+
+4. Manage Venues
+
+Purpose: Manage all venues.
+Steps:
+Navigate to Manage Venues.
+View or edit venue details.
+
+
+
+5. Feedback
+
+Purpose: Handle user feedback.
+Steps:
+Go to Feedback.
+View and respond to feedback submissions.
+
+
+
+6. Inquiries
+
+Purpose: Manage user inquiries.
+Steps:
+Navigate to Inquiries.
+Read and reply to inquiries.
+
+
+
+7. Notifications
+
+Purpose: Send notifications to users.
+Steps:
+Go to Notifications.
+Create and send notifications about events.
+
+
+
+8. Reports
+
+Purpose: Generate system reports.
+Steps:
+Navigate to Reports.
+Generate reports on users, events, or revenue.
+
+
+
+9. Ticket Pricing
+
+Purpose: Set or update ticket prices.
+Steps:
+Go to Ticket Pricing.
+Adjust pricing for different events or ticket types.
+Save the changes.
+
+
+
+10. Logout
+
+Purpose: Log out of your account.
+Steps:
+Navigate to Logout.
+Click "Logout" to end your session.
+
+
+
+Troubleshooting
+
+Cannot Log In: Ensure your credentials are correct. Use the Forgot Password option if needed.
+QR Code Not Scanning: Improve lighting or ensure the QR code is valid.
+Event Not Found: Verify the event date and time. Contact support if the issue persists.
+
+Contact Support
+For assistance, email support@eventhub.com.
